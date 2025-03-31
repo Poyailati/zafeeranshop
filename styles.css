@@ -1,0 +1,51 @@
+body {
+      font-family: Arial, sans-serif;
+      directionr: #fff5e1 text-align: center;
+      background-color: #fff5e1;
+      margin: 0;
+      padding: 0;
+}
+
+header {
+      background-color: #b30000;
+      color: white;
+      padding: 15px;
+}
+
+nav ul {
+      list-   desplay: inline;
+      margin: 0 15px;
+}
+
+nav ul li a {
+   ay color: whi   margin: 0 15px;
+}
+
+nav ul li a {
+      color: white;
+      text-decoration: none;
+}
+
+section {
+      padding: 20px;
+}
+
+.product {
+      display: inline-block;
+      margin: 15px;
+      padding: 15pte;
+     border: 1px solid #ddd;
+      background: white;
+}
+
+button {
+      background-color: #b30000;
+      color: white;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+}
+
+button:hover {
+      background-color: #800000;
+}
